@@ -11,7 +11,8 @@ import SwiftUI
 struct RcepeListApp: App {
     var body: some Scene {
         WindowGroup {
-            RecepeListView()
+            
+            RecepeTabView()
         }
     }
 }
